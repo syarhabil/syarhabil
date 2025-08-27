@@ -1,23 +1,27 @@
+<!-- Improved Profile Banner -->
 <div align="center">
-  <img src="https://syarhabil.com/foto/profile-photo.webp" alt="Syarhabil Abdussalam" width="200" style="border-radius: 50%; border: 5px solid #00ADB5;"/>
+  <img src="https://syarhabil.com/foto/profile-photo.webp" alt="Syarhabil Abdussalam" width="200" style="border-radius: 50%; border: 5px solid #00ADB5; box-shadow: 0 0 20px rgba(0, 173, 181, 0.5);"/>
 </div>
 
-<h1 align="center">
+<!-- Animated Header -->
+<h1 align="center" style="color: #00ADB5; font-family: 'Arial', sans-serif;">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Syarhabil Abdussalam
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-<h3 align="center">
+<!-- Professional Tagline -->
+<h3 align="center" style="color: #393E46; font-family: 'Arial', sans-serif;">
   💻 Web & Mobile Developer | 🚀 Tech Enthusiast | 🌟 Problem Solver
 </h3>
 
-<h3 align="center">
+<h3 align="center" style="color: #222831; font-family: 'Arial', sans-serif;">
   🔥 Mastering TypeScript, React, PHP & Laravel to build scalable, modern applications
 </h3>
 
 <br/>
 
+<!-- Profile Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=syarhabil&label=Profile%20views&color=0e75b6&style=flat" alt="syarhabil" />
   <img src="https://img.shields.io/github/followers/syarhabil?label=Followers&style=social" alt="followers"/>
@@ -25,22 +29,22 @@
 
 <br/>
 
-<!-- Removed broken trophy section -->
-
+<!-- About Me Section -->
 <details>
   <summary>🚀 <b>About Me</b></summary>
   <br/>
-  <p>
-    👨‍💻 I'm a passionate Web & Mobile Developer with expertise in creating modern, scalable applications.<br/>
-    💡 I specialize in TypeScript, React, PHP, and Laravel to deliver exceptional user experiences.<br/>
-    🎯 My focus is on building solutions that are not only functional but also beautiful and user-friendly.<br/>
-    🌱 I'm constantly learning new technologies and improving my skills.<br/>
+  <p align="center" style="font-family: 'Arial', sans-serif; max-width: 800px; margin: 0 auto;">
+    👨‍💻 I'm a passionate Web & Mobile Developer with expertise in creating modern, scalable applications.<br/><br/>
+    💡 I specialize in <b>TypeScript, React, PHP, and Laravel</b> to deliver exceptional user experiences.<br/><br/>
+    🎯 My focus is on building solutions that are not only functional but also beautiful and user-friendly.<br/><br/>
+    🌱 I'm constantly learning new technologies and improving my skills.<br/><br/>
     🤝 I enjoy collaborating with other developers and contributing to open-source projects.<br/>
   </p>
 </details>
 
 <br/>
 
+<!-- Tech Stack Section -->
 <details>
   <summary>🛠️ <b>Tech Stack</b></summary>
   <br/>
@@ -50,31 +54,31 @@
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
         </a>
-        <br>JavaScript
+        <br><b>JavaScript</b>
       </td>
       <td align="center" width="96">
         <a href="https://www.typescriptlang.org/">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
         </a>
-        <br>TypeScript
+        <br><b>TypeScript</b>
       </td>
       <td align="center" width="96">
         <a href="https://reactjs.org/">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="48" height="48" alt="React" />
         </a>
-        <br>React
+        <br><b>React</b>
       </td>
       <td align="center" width="96">
         <a href="https://nodejs.org">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="48" height="48" alt="NodeJS" />
         </a>
-        <br>Node.js
+        <br><b>Node.js</b>
       </td>
       <td align="center" width="96">
         <a href="https://www.php.net">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="48" height="48" alt="PHP" />
         </a>
-        <br>PHP
+        <br><b>PHP</b>
       </td>
     </tr>
     <tr>
@@ -82,31 +86,31 @@
         <a href="https://laravel.com/">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="48" height="48" alt="Laravel" />
         </a>
-        <br>Laravel
+        <br><b>Laravel</b>
       </td>
       <td align="center" width="96">
         <a href="https://www.mysql.com/">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48" height="48" alt="MySQL" />
         </a>
-        <br>MySQL
+        <br><b>MySQL</b>
       </td>
       <td align="center" width="96">
         <a href="https://www.mongodb.com/">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" alt="MongoDB" />
         </a>
-        <br>MongoDB
+        <br><b>MongoDB</b>
       </td>
       <td align="center" width="96">
         <a href="https://git-scm.com/">
           <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
         </a>
-        <br>Git
+        <br><b>Git</b>
       </td>
       <td align="center" width="96">
         <a href="https://docker.com/">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48" height="48" alt="Docker" />
         </a>
-        <br>Docker
+        <br><b>Docker</b>
       </td>
     </tr>
   </table>
@@ -124,6 +128,7 @@
 
 <br/>
 
+<!-- GitHub Stats Section (Removed broken streak stats) -->
 <details>
   <summary>📊 <b>GitHub Stats</b></summary>
   <br/>
@@ -134,14 +139,11 @@
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=syarhabil&show_icons=true&locale=en&theme=radical" alt="syarhabil" />
   </p>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=syarhabil&theme=radical" alt="syarhabil" />
-  </p>
 </details>
 
 <br/>
 
+<!-- Connect with Me Section -->
 <details>
   <summary>🌐 <b>Connect with Me</b></summary>
   <br/>
@@ -166,6 +168,7 @@
 
 <br/>
 
+<!-- Currently Learning Section -->
 <div align="center">
   <h3>📚 <b>Currently Learning</b></h3>
   <p>
@@ -177,6 +180,7 @@
 
 <br/>
 
+<!-- Footer with Animation -->
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you!</b> 😊</em>
