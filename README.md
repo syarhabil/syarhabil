@@ -25,13 +25,7 @@
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=syarhabil&theme=onedark&row=1&column=7" alt="syarhabil" />
-  </a>
-</div>
-
-<br/>
+<!-- Removed broken trophy section -->
 
 <details>
   <summary>🚀 <b>About Me</b></summary>
@@ -86,7 +80,7 @@
     <tr>
       <td align="center" width="96">
         <a href="https://laravel.com/">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="48" height="48" alt="Laravel" />
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" width="48" height="48" alt="Laravel" />
         </a>
         <br>Laravel
       </td>
@@ -179,13 +173,6 @@
     <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="graphql" />
     <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="redis" />
   </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🎵 <b>Spotify Playing</b></h3>
-  <img src="https://novatorem.bgstatic.com/site/spotify.png" alt="Spotify" />
 </div>
 
 <br/>
