@@ -1,19 +1,12 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=syarhabil&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <h1 align="center">Hi 👋, I'm Syarhabil Abdussalam</h1>
 <h3 align="center">Web & Mobile Developer dengan fokus utama pada Web Development. Menguasai TypeScript, React, PHP, dan Laravel untuk membangun aplikasi modern, scalable, dan berfokus pada pengalaman pengguna.</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=syarhabil&label=Profile%20views&color=0e75b6&style=flat" alt="syarhabil" /> 
+<p align="center">
+  <img src="https://i.ibb.co.com/Cpbnv82/IMG-20240820-150347-022.jpg" alt="Syarhabil Abdussalam" width="200" />
 </p>
 
----
-
-<h2 align="center">🏆 GitHub Trophies</h2>
 <p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=syarhabil" alt="syarhabil" />
-  </a> 
+  <img src="https://komarev.com/ghpvc/?username=syarhabil&label=Profile%20views&color=0e75b6&style=flat" alt="syarhabil" /> 
 </p>
 
 ---
