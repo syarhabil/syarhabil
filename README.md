@@ -2,7 +2,7 @@
 <h3 align="center">Web & Mobile Developer dengan fokus utama pada Web Development. Menguasai TypeScript, React, PHP, dan Laravel untuk membangun aplikasi modern, scalable, dan berfokus pada pengalaman pengguna.</h3>
 
 <p align="center">
-  <img src="https://i.ibb.co.com/Cpbnv82/IMG-20240820-150347-022.jpg" alt="Syarhabil Abdussalam" width="200" />
+  <img src="[https://i.ibb.co.com/Cpbnv82/IMG-20240820-150347-022.jpg](https://avatars.githubusercontent.com/u/75108013?v=4&size=64)" alt="Syarhabil Abdussalam" width="200" />
 </p>
 
 <p align="center"> 
