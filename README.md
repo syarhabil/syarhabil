@@ -2,7 +2,7 @@
 <h3 align="center">Web & Mobile Developer dengan fokus utama pada Web Development. Menguasai TypeScript, React, PHP, dan Laravel untuk membangun aplikasi modern, scalable, dan berfokus pada pengalaman pengguna.</h3>
 
 <p align="center">
-  <img src="[https://i.ibb.co.com/Cpbnv82/IMG-20240820-150347-022.jpg](https://avatars.githubusercontent.com/u/75108013?v=4&size=64)" alt="Syarhabil Abdussalam" width="200" />
+  <img src="https://syarhabil.com/foto/profile-photo.webp" alt="Syarhabil Abdussalam" width="200" style="border-radius: 50%;"/>
 </p>
 
 <p align="center"> 
@@ -11,7 +11,15 @@
 
 ---
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  Saya adalah seorang Web & Mobile Developer yang berfokus pada pengembangan aplikasi web modern dengan teknologi terkini. Saya memiliki keahlian khusus dalam TypeScript, React, PHP, dan Laravel untuk menciptakan solusi yang scalable dan user-friendly.
+</p>
+
+---
+
+<h2 align="center">🌐 Connect with me:</h2>
 <p align="center">
   <a href="https://linkedin.com/in/syarhabilabdussalam" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syarhabilabdussalam" height="30" width="40" />
@@ -23,7 +31,7 @@
 
 ---
 
-<h2 align="center">Languages and Tools:</h2>
+<h2 align="center">💻 Languages and Tools:</h2>
 <p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
